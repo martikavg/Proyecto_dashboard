@@ -1,4 +1,4 @@
-ID_estudiante,edad,género_in,género,horas_estudio_día,horas_sueño,horas_uso_smartphone,horas_redes_sociales,horas_youtube,horas_videojuego,horas_descanso_día,mg_ingesta_café,g_ingesta_café2,minutos_ejercicio,horas_ejercicio,tareas_completadas,porcentaje_asistencia,nivel_stress,puntuación_enfoque,calificación_final,puntuación_productividad
+ID_estudiante,edad,género_in,género,horas_estudio_día,horas_sueño,horas_uso_smartphone,horas_redes_sociales,horas_youtube,horas_videojuego,horas_descanso_día,mg_ingesta_café,g_ingesta_café,minutos_ejercicio,horas_ejercicio,tareas_completadas,porcentaje_asistencia,nivel_stress,puntuación_enfoque,calificación_final,puntuación_productividad
 1,23,Female,femenino,4.35,3.63,3.38,2.73,1.83,5.26,6,347,0.347,111,1.85,2,57.21,10,57,81.87,33.78
 2,20,Male,masculino,6.14,6.58,5.48,1.51,3.13,1.73,13,403,0.403,28,0.47,10,91.27,10,49,60.9,48.99
 3,29,Female,femenino,4.98,3.26,4.83,3.63,0.18,4.71,1,419,0.419,102,1.70,8,63.14,2,38,86.22,36.6
